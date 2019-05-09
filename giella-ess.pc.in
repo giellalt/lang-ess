@@ -1,0 +1,11 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+datadir=@datarootdir@
+gtlang=ess
+dir=${datadir}/giella/${gtlang}
+srcdir=${datadir}/giella/${gtlang}
+
+Name: giella-ess
+Description: Finite-state language processing tools for Central Siberian Yupik
+URL: http://divvun.no/doc/index.html
+Version: @VERSION@
