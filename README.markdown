@@ -21,7 +21,7 @@ Documentation
 
 Documentation can be found at:
 
--   <https://giellalt.uit.no/lang/essdoc/index.html>
+-   <https://giellalt.uit.no/lang/ess/CentralSiberianYupikDocumentation.html>
 -   <https://giellalt.uit.no/index.html>
 
 Core dependencies
