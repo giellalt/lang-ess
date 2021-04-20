@@ -10,7 +10,8 @@ authors named in the AUTHORS file are available to grant other licencing
 choices.
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-ess)](https://github.com/giellalt/lang-ess/issues)
- [![Build Status](https://github.com/giellalt/lang-ess/workflows/Build%20Speller%20Archives%20and%20Bundles/badge.svg)](https://github.com/giellalt/lang-ess/actions)
+[![Build Status](https://github.com/giellalt/lang-ess/workflows/Build%20Speller%20Archives%20and%20Bundles/badge.svg)](https://github.com/giellalt/lang-ess/actions)
+[![License](https://img.shields.io/github/license/giellalt/template-lang-ess)](https://raw.githubusercontent.com/giellalt/lang-ess/develop/LICENSE)
 
 Install proofing tools and [keyboards](https://github.com/giellalt/keyboard-ess)
 for the Central Siberian Yupik language by using the [Divvun Installer](http://divvun.no)
