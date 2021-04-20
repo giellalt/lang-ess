@@ -1,6 +1,10 @@
 The Central Siberian Yupik morphology and tools
 ==========================================
 
+[![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-ess)](https://github.com/giellalt/lang-ess/issues)
+[![Build Status](https://github.com/giellalt/lang-ess/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-ess/actions)
+[![License](https://img.shields.io/github/license/giellalt/lang-ess)](https://raw.githubusercontent.com/giellalt/lang-ess/develop/LICENSE)
+
 This repository contains finite state source files for the Central Siberian Yupik language,
 for building morphological analysers, proofing tools
 and dictionaries. The data and implementation are licenced under __LICENCE__
@@ -8,10 +12,6 @@ licence, also detailed in the
 [LICENCE](https://github.com/giellalt/lang-ess/blob/develop/LICENCE). The
 authors named in the AUTHORS file are available to grant other licencing
 choices.
-
-[![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-ess)](https://github.com/giellalt/lang-ess/issues)
-[![Build Status](https://github.com/giellalt/lang-ess/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-ess/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-ess)](https://raw.githubusercontent.com/giellalt/lang-ess/develop/LICENSE)
 
 Install proofing tools and [keyboards](https://github.com/giellalt/keyboard-ess)
 for the Central Siberian Yupik language by using the [Divvun Installer](http://divvun.no)
