@@ -1,3 +1,26 @@
+Noun inflection
+The Central Siberian Yupik language nouns inflect in cases.
+
+
+
+Proper noun inflection
+The Central Siberian Yupik language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+
+
+
+# Symbol affixes
+
+
+
+
+
+Verb inflection
+The Central Siberian Yupik language verbs inflect in persons.
+
+
+
 
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Central Siberian Yupik LANGUAGE.
 
@@ -93,6 +116,81 @@ The common, final lexica, are found in clitics.lexc.
  *  Punctuation ;    
  *  Symbols     ;    
 
+
+Nouns
+Nouns in the Central Siberian Yupik language are things.
+
+
+Prefixes
+Prefixes in the Central Siberian Yupik language are bound to beginning of other words.
+
+
+
+Pronouns
+Pronouns in the Central Siberian Yupik language are references to things.
+
+
+Verbs
+Verbs in the Central Siberian Yupik language are actions.
+
+
+Numerals
+Numerals in the Central Siberian Yupik language are numbers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% komma% :,      Root ;
+% tjuohkkis% :%. Root ;
+% kolon% :%:     Root ;
+% sárggis% :%-   Root ; 
+% násti% :%*     Root ; 
 
 
 
