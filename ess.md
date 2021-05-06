@@ -1,3 +1,31 @@
+Nouns
+Nouns in the Central Siberian Yupik language are things.
+
+
+Numerals
+Numerals in the Central Siberian Yupik language are numbers.
+
+
+Verbs
+Verbs in the Central Siberian Yupik language are actions.
+
+
+Prefixes
+Prefixes in the Central Siberian Yupik language are bound to beginning of other words.
+
+
+
+Pronouns
+Pronouns in the Central Siberian Yupik language are references to things.
+
+
+
+# Symbol affixes
+
+
+
+
+
 Noun inflection
 The Central Siberian Yupik language nouns inflect in cases.
 
@@ -6,13 +34,6 @@ The Central Siberian Yupik language nouns inflect in cases.
 Proper noun inflection
 The Central Siberian Yupik language proper nouns inflect in the same cases as regular
 nouns, but with a colon (':') as separator.
-
-
-
-
-# Symbol affixes
-
-
 
 
 
@@ -117,25 +138,20 @@ The common, final lexica, are found in clitics.lexc.
  *  Symbols     ;    
 
 
-Nouns
-Nouns in the Central Siberian Yupik language are things.
-
-
-Prefixes
-Prefixes in the Central Siberian Yupik language are bound to beginning of other words.
 
 
 
-Pronouns
-Pronouns in the Central Siberian Yupik language are references to things.
+We describe here how abbreviations are in Central Siberian Yupik are read out, e.g.
+for text-to-speech systems.
 
+For example:
 
-Verbs
-Verbs in the Central Siberian Yupik language are actions.
-
-
-Numerals
-Numerals in the Central Siberian Yupik language are numbers.
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
 
 
 
@@ -191,20 +207,4 @@ Numerals in the Central Siberian Yupik language are numbers.
 % kolon% :%:     Root ;
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
-
-
-
-
-We describe here how abbreviations are in Central Siberian Yupik are read out, e.g.
-for text-to-speech systems.
-
-For example:
-
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
-
 
