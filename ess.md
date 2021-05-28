@@ -605,36 +605,8 @@ These were the set types.
 
 
 
-Nouns
-Nouns in the Central Siberian Yupik language are things.
-
-
-Numerals
-Numerals in the Central Siberian Yupik language are numbers.
-
-
-Verbs
-Verbs in the Central Siberian Yupik language are actions.
-
-
-Prefixes
-Prefixes in the Central Siberian Yupik language are bound to beginning of other words.
-
-
-
-Pronouns
-Pronouns in the Central Siberian Yupik language are references to things.
-
-
-
-# Symbol affixes
-
-
-
-
-
-Noun inflection
-The Central Siberian Yupik language nouns inflect in cases.
+Verb inflection
+The Central Siberian Yupik language verbs inflect in persons.
 
 
 
@@ -644,9 +616,37 @@ nouns, but with a colon (':') as separator.
 
 
 
-Verb inflection
-The Central Siberian Yupik language verbs inflect in persons.
+Noun inflection
+The Central Siberian Yupik language nouns inflect in cases.
 
+
+
+
+# Symbol affixes
+
+
+
+
+
+Verbs
+Verbs in the Central Siberian Yupik language are actions.
+
+
+Pronouns
+Pronouns in the Central Siberian Yupik language are references to things.
+
+
+Numerals
+Numerals in the Central Siberian Yupik language are numbers.
+
+
+Prefixes
+Prefixes in the Central Siberian Yupik language are bound to beginning of other words.
+
+
+
+Nouns
+Nouns in the Central Siberian Yupik language are things.
 
 
 
@@ -748,22 +748,6 @@ The common, final lexica, are found in clitics.lexc.
 
 
 
-We describe here how abbreviations are in Central Siberian Yupik are read out, e.g.
-for text-to-speech systems.
-
-For example:
-
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
-
-
-
-
-
 
 
 
@@ -814,6 +798,22 @@ For example:
 % kolon% :%:     Root ;
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
+
+
+
+
+We describe here how abbreviations are in Central Siberian Yupik are read out, e.g.
+for text-to-speech systems.
+
+For example:
+
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
+
 
 
       [ L A N G U A G E ]  G R A M M A R   C H E C K E R
