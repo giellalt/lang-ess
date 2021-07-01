@@ -94,3 +94,5 @@ The common, final lexica, are found in clitics.lexc.
  *  Symbols     ;    
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-ess/blob/main/../src/fst/root.lexc)</small>
