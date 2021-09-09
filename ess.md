@@ -606,33 +606,34 @@ These were the set types.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-ess/blob/main/../src/cg3/functions.cg3)</small>Verbs
-Verbs in the Central Siberian Yupik language are actions.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-ess/blob/main/../src/fst/stems/verbs.lexc)</small>Numerals
-Numerals in the Central Siberian Yupik language are numbers.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-ess/blob/main/../src/fst/stems/numerals.lexc)</small>Pronouns
-Pronouns in the Central Siberian Yupik language are references to things.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-ess/blob/main/../src/fst/stems/pronouns.lexc)</small>Prefixes
-Prefixes in the Central Siberian Yupik language are bound to beginning of other words.
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-ess/blob/main/../src/cg3/functions.cg3)</small>Noun inflection
+The Central Siberian Yupik language nouns inflect in cases.
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-ess/blob/main/../src/fst/stems/prefixes.lexc)</small>Nouns
-Nouns in the Central Siberian Yupik language are things.
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-ess/blob/main/../src/fst/affixes/nouns.lexc)</small>Proper noun inflection
+The Central Siberian Yupik language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-ess/blob/main/../src/fst/stems/nouns.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-ess/blob/main/../src/fst/affixes/propernouns.lexc)</small>Verb inflection
+The Central Siberian Yupik language verbs inflect in persons.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-ess/blob/main/../src/fst/affixes/verbs.lexc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-ess/blob/main/../src/fst/affixes/symbols.lexc)</small>
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Central Siberian Yupik LANGUAGE.
 
 
@@ -729,34 +730,33 @@ The common, final lexica, are found in clitics.lexc.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-ess/blob/main/../src/fst/root.lexc)</small>Verb inflection
-The Central Siberian Yupik language verbs inflect in persons.
+<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-ess/blob/main/../src/fst/root.lexc)</small>Nouns
+Nouns in the Central Siberian Yupik language are things.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-ess/blob/main/../src/fst/stems/nouns.lexc)</small>Verbs
+Verbs in the Central Siberian Yupik language are actions.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-ess/blob/main/../src/fst/stems/verbs.lexc)</small>Numerals
+Numerals in the Central Siberian Yupik language are numbers.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-ess/blob/main/../src/fst/stems/numerals.lexc)</small>Prefixes
+Prefixes in the Central Siberian Yupik language are bound to beginning of other words.
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-ess/blob/main/../src/fst/affixes/verbs.lexc)</small>
-# Symbol affixes
-
-
-
+<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-ess/blob/main/../src/fst/stems/prefixes.lexc)</small>Pronouns
+Pronouns in the Central Siberian Yupik language are references to things.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-ess/blob/main/../src/fst/affixes/symbols.lexc)</small>Proper noun inflection
-The Central Siberian Yupik language proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-ess/blob/main/../src/fst/affixes/propernouns.lexc)</small>Noun inflection
-The Central Siberian Yupik language nouns inflect in cases.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-ess/blob/main/../src/fst/affixes/nouns.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-ess/blob/main/../src/fst/stems/pronouns.lexc)</small>
 
 
 
