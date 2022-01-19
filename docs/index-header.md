@@ -5,7 +5,9 @@
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-ess)](https://github.com/giellalt/lang-ess/issues)
 [![Build status](https://github.com/giellalt/lang-ess/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-ess/actions)
 
-This page documents the work on the [Central Siberian Yupik language model](https://github.com/giellalt/lang-ess). 
+This page documents the work on the **[Central Siberian Yupik language model](https://github.com/giellalt/lang-ess)**, or **St. Lawrence Island Yupik**.
+
+The model is just a dummy for now.
 
 # Project documentation
 
