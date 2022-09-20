@@ -4,6 +4,8 @@ The Central Siberian Yupik morphology and tools
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-ess)](https://github.com/giellalt/lang-ess/issues)
 [![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-ess/main/badge.svg)](https://github.com/giellalt/lang-ess/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-ess)](https://github.com/giellalt/lang-ess/blob/main/LICENSE)
+[![Desktop speller download](https://img.shields.io/badge/download%40latest-desktop--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-ess?platform=desktop&channel=nightly)
+[![Mobile speller download](https://img.shields.io/badge/download%40latest-mobile--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-ess?platform=mbile&channel=nightly)
 
 This repository contains finite state source files for the Central Siberian Yupik language,
 for building morphological analysers, proofing tools
