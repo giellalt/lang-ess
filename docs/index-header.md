@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-ess)](https://github.com/giellalt/lang-ess/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-ess)](https://github.com/giellalt/lang-ess/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-ess?label=CI)](https://builds.giellalt.org/pipelines/lang-ess/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/__GLOTTOLOG_ID__)
 
 This page documents the work on the **[Central Siberian Yupik language model](https://github.com/giellalt/lang-ess)**, or **St. Lawrence Island Yupik**.
 
