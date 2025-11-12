@@ -1,6 +1,3 @@
-spellername = "Central Siberian Yupik"
-spellerversion = "0.1.1"
-
 # Name of the speller package in various languages.
 # The default is English + autonym:
 [speller.name]
@@ -22,3 +19,15 @@ legacy_product_codes = [
     { value = "74533FD5-3162-4687-AA5D-63DF9043E25C", kind = "nsis" },
     { value = "4228C71A-8335-4781-A4AE-179FCF063473", kind = "nsis" }
 ]
+
+[package.speller]
+name = "Central Siberian Yupik"
+version = "0.1.1"
+
+[package.grammar]
+name = "Central Siberian Yupik"
+version = "0.1.0"
+
+[package.tts-text-proc]
+name = "Central Siberian Yupik"
+version = "0.1.0"
